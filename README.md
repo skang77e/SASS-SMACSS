@@ -12,6 +12,5 @@ Based on
 
 Team
 ==
-[Jon Kang](https://github.com/skang77e)
-
-[Nathan Wallace](https://github.com/nathan-wallace)
+ - [Jon Kang](https://github.com/skang77e)
+ - [Nathan Wallace](https://github.com/nathan-wallace)
