@@ -9,8 +9,3 @@ Based on
 ==
  - Idiomatic css
  - POPY-starter-HTML-SCSS
-
-Team
-==
- - [Jon Kang](https://github.com/skang77e)
- - [Nathan Wallace](https://github.com/nathan-wallace)
